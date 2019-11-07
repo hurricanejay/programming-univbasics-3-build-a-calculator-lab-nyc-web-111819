@@ -14,12 +14,13 @@ sum = 25
 end
 
 def multiplication(num1, num2)
-  multiplication ( 4*30 )
+  multiplication = ( 4*30 )
   sum = 120
 
 end
 
 def modulo(num1, num2)
+
 
 end
 
