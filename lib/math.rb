@@ -26,5 +26,6 @@ sum = 4
 end
 
 def square_root(num)
-square_root (81)
+square_root = (81)
+sum = 9
 end
